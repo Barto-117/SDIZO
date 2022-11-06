@@ -1,0 +1,25 @@
+﻿  Czas.cpp
+C:\Users\barto\source\repos\SDIZO\SDIZO\Czas.cpp(21,58): warning C4244: "return": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+  Kopiec.cpp
+C:\Users\barto\source\repos\SDIZO\SDIZO\Kopiec.cpp(21,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Lista.cpp
+C:\Users\barto\source\repos\SDIZO\SDIZO\Lista.cpp(70,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\barto\source\repos\SDIZO\SDIZO\Lista.cpp(185,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Main.cpp
+C:\Users\barto\source\repos\SDIZO\SDIZO\Tablica.cpp(126,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\barto\source\repos\SDIZO\SDIZO\Lista.cpp(70,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\barto\source\repos\SDIZO\SDIZO\Lista.cpp(185,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\barto\source\repos\SDIZO\SDIZO\Kopiec.cpp(21,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\barto\source\repos\SDIZO\SDIZO\Czas.cpp(21,58): warning C4244: "return": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+  Tablica.cpp
+C:\Users\barto\source\repos\SDIZO\SDIZO\Tablica.cpp(126,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  SDIZO.vcxproj -> C:\Users\barto\source\repos\SDIZO\Debug\SDIZO.exe
